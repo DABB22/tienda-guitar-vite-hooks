@@ -1,24 +1,24 @@
 export const db = [
     {
         id: 1,
-        name: 'Lukather',
+        name: 'Lukather-2',
         image: 'guitarra_01',
         description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
-        price: 299,
+        price: 399,
     },
     {
         id: 2,
-        name: 'SRV',
+        name: 'SRV-2',
         image: 'guitarra_02',
         description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
-        price: 349,
+        price: 449,
     },
     {
         id: 3,
-        name: 'Borland',
+        name: 'Borland-2',
         image: 'guitarra_03',
         description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
-        price: 329,
+        price: 429,
     },
     {
         id: 4,
